@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery_hw</string>
+    <string name="item_example">item_example</string>
+    <string name="chosen_photos">Выбор фотографий</string>
+</resources>
